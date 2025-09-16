@@ -11,3 +11,4 @@ print("youa age is :",age)
 #favourite toys 
 toys=["fitness tracker ","portable projector","adult LEGO"]
 print ("my favouritw toys are",toys)
+
